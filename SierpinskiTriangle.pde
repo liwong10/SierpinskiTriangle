@@ -5,7 +5,7 @@ public void setup()
 }
 public void draw()
 {
-sierpinski(750,800,600);
+sierpinski(500,200,600);
 }
 public void mouseDragged()//optional
 {
